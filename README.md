@@ -1,16 +1,10 @@
-# service
+# BBIKE-CAR SERVICE APP UI DESIGN
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/81028182/124375665-18ef4700-dcc3-11eb-965c-6007ac7bdeca.png)
+![Screenshot_2](https://user-images.githubusercontent.com/81028182/124375666-1a207400-dcc3-11eb-9aa2-e121c55835ea.png)
+![Screenshot_3](https://user-images.githubusercontent.com/81028182/124375667-1ab90a80-dcc3-11eb-92bf-dad6fe40274b.png)
+![Screenshot_4](https://user-images.githubusercontent.com/81028182/124375669-1b51a100-dcc3-11eb-992e-b42d7334f4d5.png)
+![Screenshot_5](https://user-images.githubusercontent.com/81028182/124375670-1b51a100-dcc3-11eb-9080-8a5a390b15c8.png)
+![Screenshot_6](https://user-images.githubusercontent.com/81028182/124375671-1bea3780-dcc3-11eb-81c8-e891b6452a36.png)
+![Screenshot_7](https://user-images.githubusercontent.com/81028182/124375672-1c82ce00-dcc3-11eb-9d7c-21ffbe27915c.png)
