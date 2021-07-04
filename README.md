@@ -1,4 +1,4 @@
-# BBIKE-CAR SERVICE APP UI DESIGN
+# BIKE-CAR SERVICE APP UI DESIGN
 
 ## Some Screenshots
 ![Screenshot_1](https://user-images.githubusercontent.com/81028182/124375665-18ef4700-dcc3-11eb-965c-6007ac7bdeca.png)
