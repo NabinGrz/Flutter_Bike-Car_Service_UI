@@ -1,5 +1,9 @@
 # BIKE-CAR SERVICE APP UI DESIGN
 
+<img src="https://user-images.githubusercontent.com/81028182/124376628-a7fe5e00-dcc7-11eb-9d22-83b972b26c72.gif" width="330" height="690">![service]
+
+
+
 ## Some Screenshots
 ![Screenshot_1](https://user-images.githubusercontent.com/81028182/124375665-18ef4700-dcc3-11eb-965c-6007ac7bdeca.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/81028182/124375666-1a207400-dcc3-11eb-9aa2-e121c55835ea.png)
