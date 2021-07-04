@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:service/drawer/drawer.dart';
@@ -69,34 +70,17 @@ class _MyHomePageState extends State<MyHomePage> {
                 color: Colors.white,
               ),
               Icon(
-                Icons.home,
+                Icons.call,
                 color: Colors.white,
               ),
               Icon(
-                Icons.home,
+                Icons.note,
                 color: Colors.white,
               ),
               Icon(
-                Icons.home,
+                CupertinoIcons.wrench,
                 color: Colors.white,
               ),
-              // BottomNavigationBarItem(
-              //     icon: IconButton(
-              //         onPressed: () {
-              //           Navigator.push(context,
-              //               MaterialPageRoute(builder: (Context) => Verify()));
-              //         },
-              //         icon: Icon(
-              //           Icons.car_repair,
-              //           color: Colors.white,
-              //         )),
-              //     label: "Profile"),
-              // BottomNavigationBarItem(
-              //     icon: Icon(
-              //       Icons.book_online,
-              //       color: Colors.white,
-              //     ),
-              //     label: "Chat"),
             ],
           ),
         ),
@@ -112,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: <Widget>[
               Container(
                 width: MediaQuery.of(context).size.width,
-                height: MediaQuery.of(context).size.width * 0.7,
+                height: MediaQuery.of(context).size.width * 0.8,
                 decoration: BoxDecoration(
                     color: Color(0xffF15D09),
                     borderRadius: BorderRadius.only(

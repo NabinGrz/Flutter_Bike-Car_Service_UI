@@ -96,7 +96,7 @@ class _IntroScreenUIState extends State<IntroScreenUI> {
                     borderRadius: BorderRadius.circular(20))),
             pages: getPages(),
             globalHeader: Padding(
-              padding: const EdgeInsets.all(12.0),
+              padding: const EdgeInsets.only(top: 35.0),
               child: Image.asset(
                 "assets/images/goservice.png",
               ),

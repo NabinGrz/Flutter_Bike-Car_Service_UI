@@ -42,7 +42,7 @@ class _SelectUIState extends State<SelectUI> {
                   alignment: Alignment.topCenter,
                   child: Padding(
                     padding: const EdgeInsets.symmetric(
-                        vertical: 30.0, horizontal: 20.0),
+                        vertical: 50.0, horizontal: 20.0),
                     child: Text(
                       "Select Service Type",
                       style: TextStyle(
